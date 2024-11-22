@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: red;
+    font-family: "Roboto Slab", serif;
+}
+
+.chamada{padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex; /*torna flexivel*/
+    justify-content: center;}
